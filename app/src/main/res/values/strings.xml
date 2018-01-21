@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IAK_epi1</string>
+
+    <!--main-->
+    <string name="text">Text</string>
+    <string name="image_desc">Image Description</string>
+
+    <!--detail-->
+    <string name="detail_title">Title</string>
+    <string name="detail_text">Cuaca saat ini di Indonesia</string>
+</resources>
